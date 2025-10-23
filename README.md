@@ -1,2 +1,12 @@
 # VisTrackr
-VisTrackr adalah aplikasi website yang mengambil tema "Sistem Manajemen Usaha".
+
+VisTrackr adalah platform manajemen bisnis berbasis web yang dirancang untuk mempermudah pengelolaan stok produk, transaksi penjualan, serta analisis pendapatan secara real time. Sistem ini mengintegrasikan antarmuka kasir dinamis, alat manajemen stok, dan laporan penjualan interaktif. Memberikan pemilik bisnis wawasan yang jelas melalui dashboard intuitif dan visualisasi data interaktif menggunakan Chart.js.
+
+Fitur utama meliputi:
+- Sistem manajemen inventori dengan pembaruan stok barang secara langsung.
+- Analitik laporan penjualan, yang mengagregasi data ke dalam performa harian, mingguan, dan bulanan.
+- Sinkronisasi data otomatis menggunakan PHP, MySQL, dan JavaScript.
+- Terdapat data yang disajikan dengan visual model chart.
+- Setiap transaksi tercatat, menampilkan data dengan spesifik waktu jam:menit
+
+Dikembangkan dengan menggunakan PHP, JavaScript (jQuery & Chart.js), Bootstrap + vanilla CSS, dan MySQL, VisTrackr menawarkan solusi yang skalabel, efisien, dan sederhana dilakukan bagi usaha kecil.

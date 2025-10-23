@@ -10,3 +10,5 @@ Fitur utama meliputi:
 - Setiap transaksi tercatat, menampilkan data dengan spesifik waktu jam:menit
 
 Dikembangkan dengan menggunakan PHP, JavaScript (jQuery & Chart.js), Bootstrap + vanilla CSS, dan MySQL, VisTrackr menawarkan solusi yang skalabel, efisien, dan sederhana dilakukan bagi usaha kecil.
+
+(Untuk menggunakan website ini, ikut panduan dan langkah-langkah di file "KetentuanMenggunakan" yang terdapat dalam folder project ini).

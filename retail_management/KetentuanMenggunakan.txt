@@ -1,0 +1,17 @@
+!!! DISCLAIMER !!!
+WEBSITE INI MENGGUNAKAN DATABASE SEBAGAI MEDIA MENYIMPAN DATA!
+SEHINGGA HARUS DIJALANKAN DI LIVE SERVER "XAMPP" (SOFTWARE UNTUK MENJALANKAN LIVE SERVER DAN MYSQL)-
+ATAU LIVE SERVER YANG KOMPATIBEL DENGAN PERANGKAT ANDA.
+
+Langkah-langkah untuk menjalankan website VisTrackr:
+1. Buka software "XAMPP" atau software live server lainnya, lalu jalankan (klik "start") menu bertuliskan "apache" dan "mysql".
+2. Buka "phpmyadmin" lalu buat database baru bernama "retail" (klik "new" lalu namakan database "retail").
+3. Buka project ini (retail_management), ada folder bernama "retail" berisi file berformat ".sql", balik ke "phpmyadmin" lalu import semua file dalam folder "retail" di database "retail".
+4. Setelah itu akses ke website dengan menulis url di browser "localhost/retail_management".
+
+(opsional)
+5. Buka terminal ("cmd" atau "powershell") lalu arahkan directorynya seperti ini "C:\xampp\htdocs\retail_management\api".
+6. Ketik command "php aggregate_system.php" lalu tekan Enter pada keyboard.
+7. Untuk bagian langkah ini boleh dilakukan jika anda ingin menjalankan sistem aggregate pada website (agar data di dalam website setiap hari selalu diupdate layaknya sistem agregasi).
+
+Terima kasih telah mengikuti langkah-langkah/panduan ketentuan penggunaan website ini!!!

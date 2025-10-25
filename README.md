@@ -12,3 +12,5 @@ Fitur utama meliputi:
 Dikembangkan dengan menggunakan PHP, JavaScript (jQuery & Chart.js), Bootstrap + vanilla CSS, dan MySQL, VisTrackr menawarkan solusi yang skalabel, efisien, dan sederhana dilakukan bagi usaha kecil.
 
 (Untuk menggunakan website ini, ikut panduan dan langkah-langkah di file "KetentuanMenggunakan" yang terdapat dalam folder project ini).
+
+"Note: Link pengumpulan project 1 adalah link website ini SETELAH DIHOSTING. Ini adalah project website versi sebelum dihosting 😄

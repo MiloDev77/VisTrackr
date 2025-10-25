@@ -13,4 +13,8 @@ Dikembangkan dengan menggunakan PHP, JavaScript (jQuery & Chart.js), Bootstrap +
 
 (Untuk menggunakan website ini, ikut panduan dan langkah-langkah di file "KetentuanMenggunakan" yang terdapat dalam folder project ini).
 
-"Note: Link pengumpulan project 1 adalah link website ini SETELAH DIHOSTING. Ini adalah project website versi sebelum dihosting 😄
+"Note: Link pengumpulan project 1 adalah link website ini SETELAH DIHOSTING. Ini adalah project website versi sebelum dihosting 😄.
+
+Di bawah ini adalah link project website milik saya setelah dihosting: (Link ini juga adalah link yang saya serahkan
+di pengumpulan project 1)
+https://prodjost.my.id/syamil
